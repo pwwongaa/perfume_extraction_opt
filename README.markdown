@@ -1,4 +1,4 @@
-# Perfume Extraction Optimizer
+# Perfume Extraction Optimizer (Demo)
 
 A Python tool to optimize perfume extraction protocols by predicting the best temperature and solvent mixture for chemical isolates using cheminformatics and machine learning.
 
