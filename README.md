@@ -63,7 +63,7 @@ Predicted Yield: 89.2%
 5. Open a pull request.
 
 ## License
-MIT License. See [LICENSE](LICENSE) for details.
+XXX License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 For issues or questions, open an issue or email [your-email@example.com].
