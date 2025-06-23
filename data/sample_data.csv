@@ -1,0 +1,10 @@
+Compound,SMILES,Temperature_C,Solvent_Mix,Solvent_Polarity,Yield_Percent
+Linalool,CC(C)=CCCC(C)(O)C=C,40,Ethanol:Water 70:30,32.7,85
+Linalool,CC(C)=CCCC(C)(O)C=C,50,Hexane 100,24.3,80
+Linalool,CC(C)=CCCC(C)(O)C=C,60,Ethanol 100,24.3,88
+Limonene,CC1=CC[C@@H](CC1)C(=C)C,40,Ethanol:Water 70:30,32.7,90
+Limonene,CC1=CC[C@@H](CC1)C(=C)C,50,Hexane 100,24.3,85
+Limonene,CC1=CC[C@@H](CC1)C(=C)C,60,Ethanol 100,24.3,82
+Geraniol,CC(C)=CCCC(C)=CCO,40,Ethanol:Water 70:30,32.7,78
+Geraniol,CC(C)=CCCC(C)=CCO,50,Hexane 100,24.3,75
+Geraniol,CC(C)=CCCC(C)=CCO,60,Ethanol 100,24.3,80

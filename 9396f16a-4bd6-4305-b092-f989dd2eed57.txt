@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Data
+*.csv
+*.pkl
+*.h5
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Virtual environments
+pipenv/
+poetry/
+*.venv
+
+# Testing
+.pytest_cache/
+coverage/
+*.cover
